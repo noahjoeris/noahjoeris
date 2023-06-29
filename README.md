@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my personal website<br>🌱 I’m currently learning Angular<br>⚡ Passionate about web development, web3/blockchain, DevOps<br><br>
+🔭 I’m currently working on my personal website<br>🌱 I’m currently learning Angular<br>⚡ Passionate about web development, web3/blockchain, DevOps<br>🔥 Other interests: Calisthenics, Philosophy/Stoicism, Biohacking, Reading<br>📫 I'm happy to connect. Just say hi :)<br><br>
 [![](https://visitcount.itsvg.in/api?id=noahjoeris&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:

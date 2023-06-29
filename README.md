@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my personal website<br>🌱 I’m currently learning Angular<br>⚡ Passionate about web development, web3/blockchain, DevOps<br>
+🔭 I’m currently working on my personal website<br>🌱 I’m currently learning Angular<br>⚡ Passionate about web development, web3/blockchain, DevOps<br><br>
 [![](https://visitcount.itsvg.in/api?id=noahjoeris&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
@@ -19,6 +19,3 @@
 
   ## 💰 Donate
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/noahjoeris) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

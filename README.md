@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working mostly on closed source projects<br>🌱 Learning Rust and Substrate at the moment 🦀<br>⚡ Passionate about web3/blockchain, full stack dev, DevOps<br>🔥 Other interests: Calisthenics, Philosophy/Stoicism, Biohacking, Reading<br>📫 I'm happy to connect. Just say hi :)<br><br>
+🔭 I’m currently supporting the Polkadot blockchain ecosystem<br>🌱 Learning Rust and Substrate at the moment 🦀<br>⚡ Passionate about web3/blockchain, full stack dev, DevOps<br>🔥 Other interests: Calisthenics, Philosophy/Stoicism, Biohacking, Reading<br>📫 I'm happy to connect. Just say hi :)<br><br>
 [![](https://visitcount.itsvg.in/api?id=noahjoeris&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:

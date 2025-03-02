@@ -1,5 +1,5 @@
 ## 💫 About Me:
-🔭 I’m currently supporting the Polkadot blockchain ecosystem<br>🌱 Learning Rust and Substrate at the moment 🦀<br>⚡ Passionate about web3/blockchain, full stack dev, DevOps<br>🔥 Other interests: Calisthenics, Philosophy/Stoicism, Biohacking, Reading<br>📫 I'm happy to connect. Just say hi :)<br><br>
+🔭 I’m currently supporting the Polkadot blockchain ecosystem<br>🌱 Diving deep into Bitcoin protocol development with Rust at the moment 🦀<br>⚡ Passionate about web3/blockchain, and building amazing full stack apps <br>🔥 Other interests: Working out/Calisthenics, Philosophy/Stoicism, Biohacking, Reading<br>📫 I'm happy to connect. Just say hi :)<br><br>
 
 ### 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/noahjo2807) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/njoeris) 
